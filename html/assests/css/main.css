@@ -1,0 +1,80 @@
+
+CodePen
+HTML
+CSS
+JS
+
+<!Doctype>
+
+<html>
+
+​
+
+  <head>
+
+    <link href="http://s3.amazonaws.com/codecademy-content/courses/ltp/css/shift.css" rel="stylesheet">
+
+    
+
+    <link rel="stylesheet" href="http://s3.amazonaws.com/codecademy-content/courses/ltp/css/bootstrap.css">
+
+    <link rel="stylesheet" href="main.css">
+
+    
+
+  </head>
+
+​
+
+  <body>
+
+    <div class="nav">
+
+      <div class="container">
+
+        <ul class="pull-left">
+
+          <li><a href="#">Name</a></li>
+
+!
+
+.nav a {
+
+  color: #5a5a5a;
+
+  font-size: 11px;
+
+  font-weight: bold;
+
+  padding: 14px 10px;
+
+  text-transform: uppercase;
+
+}
+
+​
+
+.nav li {
+
+  display: inline;
+
+}
+
+​
+
+.jumbotron {
+
+  background-image:url('http://goo.gl/04j7Nn');
+
+  height: 500px;
+
+  background-repeat: no-repeat;
+
+  background-size: cover;
+
+}
+
+​
+
+​
+
